@@ -14,7 +14,7 @@ You need to connect the DATA and DATAB pins on the VAN CAN bridge hardware to th
 
 ### Displaying the value on the serial console
 
-![odometer_mileage](https://github.com/morcibacsi/PSAVanCanBridge/raw/master/images/odometer_mileage.png)
+![odometer_mileage](https://github.com/morcibacsi/PSA-VAN-bus-mileage-reader/blob/main/images/odometer_mileage.png)
 
 ### Building the project
 
