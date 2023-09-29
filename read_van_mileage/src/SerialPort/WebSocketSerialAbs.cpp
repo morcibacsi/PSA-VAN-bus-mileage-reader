@@ -1,7 +1,6 @@
-﻿#include "../../Config.h"
+#include "../../Config.h"
 
 #ifdef WEBSOCKET_SERIAL
-
 #include "WebSocketSerialAbs.h"
 #include "SerialSocketHandler.h"
 
